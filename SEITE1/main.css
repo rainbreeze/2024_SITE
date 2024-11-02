@@ -5,5 +5,11 @@ header {
     height: 5vw;
     width: 100%;
     background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
+header .hd_title {
+    font-size: 32px;
+}
